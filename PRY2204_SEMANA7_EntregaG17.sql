@@ -5,6 +5,7 @@
 /* =========================================================
    0) DROP INICIAL
    ========================================================= */
+
 DROP TABLE DOMINIO CASCADE CONSTRAINTS;
 DROP TABLE TITULACION CASCADE CONSTRAINTS;
 DROP TABLE PERSONAL CASCADE CONSTRAINTS;
